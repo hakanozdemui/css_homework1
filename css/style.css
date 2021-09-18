@@ -1,0 +1,43 @@
+
+.header{
+
+    text-align: center; 
+    margin-top: 50px; 
+    font-size: 60px;
+    font-style: italic;
+    color: crimson;
+    
+}
+
+.navbar{
+
+    width:fit-content; 
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    clear: inherit;
+
+
+}
+
+.nav{
+    float: left;
+    font-size: large;
+    margin: 5px;   
+}
+.articles{
+    text-align: center; 
+}
+
+.main-images{
+    text-align: center;
+}
+
+.list{
+    list-style-position: inside;
+    text-align: center;
+}
+
+
+
+
